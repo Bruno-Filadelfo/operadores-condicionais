@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operador condicional", "operador condicional\operador condicional.csproj", "{F60CE1B8-DEF4-40CE-AE2E-4E82A6E9EB1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprendendo switch case", "aprendendo switch case\aprendendo switch case.csproj", "{82540B7F-35A7-4729-822E-55AD1C284A33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F60CE1B8-DEF4-40CE-AE2E-4E82A6E9EB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F60CE1B8-DEF4-40CE-AE2E-4E82A6E9EB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F60CE1B8-DEF4-40CE-AE2E-4E82A6E9EB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82540B7F-35A7-4729-822E-55AD1C284A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82540B7F-35A7-4729-822E-55AD1C284A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82540B7F-35A7-4729-822E-55AD1C284A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82540B7F-35A7-4729-822E-55AD1C284A33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
