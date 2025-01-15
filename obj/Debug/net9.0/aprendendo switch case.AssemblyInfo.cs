@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aprendendo switch case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8461e07a74ea01cce8719fd9638c30ca75d593a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+716f6d75cac58ba4c6a71383e4fa7f5495d04e4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("aprendendo switch case")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aprendendo switch case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
