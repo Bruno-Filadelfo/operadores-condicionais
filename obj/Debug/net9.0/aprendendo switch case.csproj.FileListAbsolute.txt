@@ -1,0 +1,14 @@
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\bin\Debug\net9.0\aprendendo switch case.exe
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\bin\Debug\net9.0\aprendendo switch case.deps.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\bin\Debug\net9.0\aprendendo switch case.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\bin\Debug\net9.0\aprendendo switch case.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\bin\Debug\net9.0\aprendendo switch case.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\refint\aprendendo switch case.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\ref\aprendendo switch case.dll
