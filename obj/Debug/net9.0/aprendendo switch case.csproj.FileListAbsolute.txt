@@ -12,3 +12,4 @@ C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo swi
 C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.pdb
 C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.genruntimeconfig.cache
 C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\ref\aprendendo switch case.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\operadores condicionais\aprendendo switch case\obj\Debug\net9.0\aprendendo switch case.sourcelink.json
