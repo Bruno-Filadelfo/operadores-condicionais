@@ -41,23 +41,23 @@ if (letraa == "a" ||
 else {
     Console.WriteLine("Não é vogal");
 }   
-// 
+
 
 ////
 
-// switch (letra) {
-//     case "a":
-//     case "e":
-//     case "i":
-//     case "o":
-//     case "u":
-//     Console.WriteLine("vogal");
-//     break;
+switch (letra) {
+     case "a":
+     case "e":
+     case "i":
+     case "o":
+     case "u":
+     Console.WriteLine("é vogal");
+     break;
 
-//     default:
-//     Console.WriteLine("Não é vogal");
-//     break;
-// }
+     default:
+     Console.WriteLine("Não é uma vogal!");
+     break;
+}
 
 
 
