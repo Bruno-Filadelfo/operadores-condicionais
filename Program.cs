@@ -2,23 +2,23 @@
 string letra = Console.ReadLine();
 
 if (letra == "a") {
-    Console.WriteLine("vogal");
+    Console.WriteLine("é vogal");
 }
 
 else if (letra == "e") {
-    Console.WriteLine("vogal");
+    Console.WriteLine("é vogal");
 }
 
 else if (letra == "i") {
-    Console.WriteLine("vogal");
+    Console.WriteLine("é vogal");
 }
 
 else if (letra == "o") {
-    Console.WriteLine("vogal");
+    Console.WriteLine("é vogal");
 }
 
 else if (letra == "u") {
-    Console.WriteLine("vogal");
+    Console.WriteLine("é vogal");
 }
 
 else {
@@ -35,7 +35,7 @@ if (letraa == "a" ||
     letraa == "i" ||
     letraa == "o" ||
     letraa == "u") {
-        Console.WriteLine("vogal");
+        Console.WriteLine("é vogal");
     }
 
 else {
@@ -46,17 +46,17 @@ else {
 ////
 
 switch (letra) {
-    case "a":
-    case "e":
-    case "i":
-    case "o":
-    case "u":
-    Console.WriteLine("vogal");
-    break;
+     case "a":
+     case "e":
+     case "i":
+     case "o":
+     case "u":
+     Console.WriteLine("é vogal");
+     break;
 
-    default:
-    Console.WriteLine("Não é vogal");
-    break;
+     default:
+     Console.WriteLine("Não é uma vogal!");
+     break;
 }
 
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\operadores condicionais\\aprendendo switch case\\aprendendo switch case.csproj": {}
+    "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\tipos de operadores\\switch case\\aprendendo switch case.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\operadores condicionais\\aprendendo switch case\\aprendendo switch case.csproj": {
+    "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\tipos de operadores\\switch case\\aprendendo switch case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\operadores condicionais\\aprendendo switch case\\aprendendo switch case.csproj",
+        "projectUniqueName": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\tipos de operadores\\switch case\\aprendendo switch case.csproj",
         "projectName": "aprendendo switch case",
-        "projectPath": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\operadores condicionais\\aprendendo switch case\\aprendendo switch case.csproj",
+        "projectPath": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\tipos de operadores\\switch case\\aprendendo switch case.csproj",
         "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\operadores condicionais\\aprendendo switch case\\obj\\",
+        "outputPath": "C:\\Users\\Bruno\\OneDrive\\Área de Trabalho\\tipos de operadores\\switch case\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
