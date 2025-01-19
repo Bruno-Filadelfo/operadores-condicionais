@@ -1,0 +1,15 @@
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\bin\Debug\net9.0\operador not.exe
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\bin\Debug\net9.0\operador not.deps.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\bin\Debug\net9.0\operador not.runtimeconfig.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\bin\Debug\net9.0\operador not.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\bin\Debug\net9.0\operador not.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.AssemblyInfoInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.AssemblyInfo.cs
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.sourcelink.json
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\refint\operador not.dll
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.pdb
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\operador not.genruntimeconfig.cache
+C:\Users\Bruno\OneDrive\Área de Trabalho\tipos de operadores\operador not\operador not\obj\Debug\net9.0\ref\operador not.dll
